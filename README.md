@@ -11,8 +11,10 @@ Before you begin, ensure you have the following software installed on your local
 
 ### VSCode
 It is highly recommeded to leverage VSCode for development of Fuelight360 due to the Azure stack we will leverage.  The stack includes Azure Function and Azure Static Web Apps with JS and we recommend you install this packages to your VSCode to assit in development:
-    - [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-    - [Azure Tools extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
+
+- [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+    
+- [Azure Tools extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
 
 ---
 
